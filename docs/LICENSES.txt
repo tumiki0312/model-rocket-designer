@@ -1,0 +1,25 @@
+同梱しているソフトウェアとライセンス
+====================================
+
+このアプリ（RocketDesign.exe）は PyInstaller で作られており、次のソフトウェアを
+含んでいます。各ソフトウェアの著作権はそれぞれの作者に帰属します。
+
+  Python {python}              Python Software Foundation License
+                                https://docs.python.org/3/license.html
+  Tcl/Tk（tkinter）             Tcl/Tk License (BSD 系)
+                                https://www.tcl.tk/software/tcltk/license.html
+  NumPy {numpy}               BSD-3-Clause ほか
+                                https://numpy.org/doc/stable/license.html
+  Matplotlib {matplotlib}           Matplotlib License (PSF 系)
+                                https://matplotlib.org/stable/project/license.html
+  Pillow {pillow}               MIT-CMU (HPND)
+                                https://github.com/python-pillow/Pillow/blob/main/LICENSE
+  contourpy / cycler / fonttools / kiwisolver / packaging / pyparsing /
+  python-dateutil / six         BSD / MIT / Apache-2.0 など（Matplotlib の依存ライブラリ）
+  PyInstaller ブートローダー    GPL-2.0-or-later（ブートローダー例外付き。
+                                作成したアプリの配布に制限はありません）
+                                https://pyinstaller.org/en/stable/license.html
+  Microsoft Visual C++ ランタイム（VCRUNTIME140.dll）
+                                Microsoft Visual C++ 再頒布可能パッケージのライセンス
+
+各ライセンスの全文は上記の URL で確認できます。

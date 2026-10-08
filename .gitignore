@@ -1,0 +1,16 @@
+# ビルド用の環境と出力（build.bat で作り直せる）
+.venv-build/
+.venv/
+build/
+dist/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+
+# エディタ・OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
